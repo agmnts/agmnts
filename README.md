@@ -6,8 +6,11 @@
 # 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=agmnts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agmnts&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agmnts&theme=github_dark)
 
 ---
 
